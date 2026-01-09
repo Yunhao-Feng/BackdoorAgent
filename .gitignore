@@ -1,0 +1,9 @@
+*.pyc
+data/
+results/
+reference_code/
+test.py
+__pycache__/
+__pycache__
+result/
+new_result/

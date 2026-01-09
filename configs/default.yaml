@@ -1,0 +1,5 @@
+openai:
+  api_key: ""
+  api_url: "https://idealab.alibaba-inc.com/api/openai/v1"
+device: "cuda"
+save_dir: "result"
