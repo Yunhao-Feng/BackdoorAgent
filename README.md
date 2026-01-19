@@ -147,11 +147,11 @@ python runs/run.py --task agent_qa --attack badchain --model qwen3-max
 If you use this repository in academic work, please cite the corresponding paper (if applicable):
 
 ```bibtex
-@misc{backdoorbench,
-  title        = {BackdoorBench: A Modular Benchmark for Backdoor Evaluation in Agentic LLMs},
-  author       = {Yunhao Feng, Yige Li, Yutao Wu, Yingshui Tan, Yanming Guo, Yifan Ding, Kun Zhai, Xingjun Ma, Yugang Jiang},
-  year         = {2025},
-  howpublished = {\url{https://arxiv.org/abs/2601.04566}}
+@article{feng2026backdooragent,
+  title={BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents},
+  author={Feng, Yunhao and Li, Yige and Wu, Yutao and Tan, Yingshui and Guo, Yanming and Ding, Yifan and Zhai, Kun and Ma, Xingjun and Jiang, Yugang},
+  journal={arXiv preprint arXiv:2601.04566},
+  year={2026}
 }
 ```
 
