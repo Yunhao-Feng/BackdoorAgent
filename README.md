@@ -149,7 +149,7 @@ If you use this repository in academic work, please cite the corresponding paper
 ```bibtex
 @article{feng2026backdooragent,
   title={BackdoorAgent: A Unified Framework for Backdoor Attacks on LLM-based Agents},
-  author={Feng, Yunhao and Li, Yige and Wu, Yutao and Tan, Yingshui and Guo, Yanming and Ding, Yifan and Zhai, Kun and Ma, Xingjun and Jiang, Yugang},
+  author={Yunhao Feng, Yige Li, Yutao Wu, Yingshui Tan, Yanming Guo, Yifan Ding, Kun Zhai, Xingjun Ma, and Yu-Gang Jiang},
   journal={arXiv preprint arXiv:2601.04566},
   year={2026}
 }
